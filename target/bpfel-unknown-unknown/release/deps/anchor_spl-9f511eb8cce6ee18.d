@@ -1,0 +1,10 @@
+/Users/nguyenthingoan/Desktop/SOLANA/token-proxy/target/bpfel-unknown-unknown/release/deps/anchor_spl-9f511eb8cce6ee18.rmeta: /Users/nguyenthingoan/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.18.2/src/lib.rs /Users/nguyenthingoan/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.18.2/src/associated_token.rs /Users/nguyenthingoan/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.18.2/src/mint.rs /Users/nguyenthingoan/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.18.2/src/token.rs
+
+/Users/nguyenthingoan/Desktop/SOLANA/token-proxy/target/bpfel-unknown-unknown/release/deps/libanchor_spl-9f511eb8cce6ee18.rlib: /Users/nguyenthingoan/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.18.2/src/lib.rs /Users/nguyenthingoan/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.18.2/src/associated_token.rs /Users/nguyenthingoan/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.18.2/src/mint.rs /Users/nguyenthingoan/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.18.2/src/token.rs
+
+/Users/nguyenthingoan/Desktop/SOLANA/token-proxy/target/bpfel-unknown-unknown/release/deps/anchor_spl-9f511eb8cce6ee18.d: /Users/nguyenthingoan/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.18.2/src/lib.rs /Users/nguyenthingoan/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.18.2/src/associated_token.rs /Users/nguyenthingoan/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.18.2/src/mint.rs /Users/nguyenthingoan/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.18.2/src/token.rs
+
+/Users/nguyenthingoan/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.18.2/src/lib.rs:
+/Users/nguyenthingoan/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.18.2/src/associated_token.rs:
+/Users/nguyenthingoan/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.18.2/src/mint.rs:
+/Users/nguyenthingoan/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-spl-0.18.2/src/token.rs:
